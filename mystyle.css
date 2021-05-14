@@ -1,0 +1,14 @@
+body {
+  background-color: Dark Red;
+}
+
+h1 {
+  color: blue;
+  margin-left: 20px;
+  font-family: "Chalkduster", fantasy;
+}
+
+p {
+  color: purple;
+  font-family: "American Typewriter", serif;
+}
